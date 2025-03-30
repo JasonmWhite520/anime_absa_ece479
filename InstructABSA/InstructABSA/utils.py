@@ -135,8 +135,8 @@ class T5Generator:
 
 class T5Classifier:
     def __init__(self, model_checkpoint):
-        self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, force_download = True)
-        self.model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint, force_download = True)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, force_download = False)
+        self.model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint, force_download = False)
         self.data_collator = DataCollatorForSeq2Seq(self.tokenizer)
         self.device = 'cuda' if torch.has_cuda else ('mps' if torch.has_mps else 'cpu')
 
