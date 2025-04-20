@@ -92,13 +92,20 @@ def aspect_term_sentiment_classification(raw_review, aspect_term):
 def get_overall_review_sentiment(raw_review):
     aspect_list = aspect_term_extraction(raw_review)
     if len(aspect_list) == 0:
-        return None
+        return [None, None]
     aspect_sentiments = []
+    aspect_sentiment_mapping = []
     for aspect in aspect_list:
         aspect_term_sentiment = aspect_term_sentiment_classification(raw_review, aspect)
         aspect_sentiments.append(aspect_term_sentiment)
+        aspect_sentiment_mapping.append({
+            'aspect': aspect,
+            'sentiment': aspect_term_sentiment
+        })
     total_sentiment = 0
     clean_aspect_sentiments = [aspect for aspect in aspect_sentiments if aspect != 'none']
+    if len(clean_aspect_sentiments) == 0:
+        return [None, None]
     for sentiment in clean_aspect_sentiments:
         if sentiment == "positive":
             total_sentiment += 1
@@ -106,4 +113,4 @@ def get_overall_review_sentiment(raw_review):
             total_sentiment += 0.5
 
     avg_sentiment = total_sentiment / len(clean_aspect_sentiments)
-    return avg_sentiment
+    return avg_sentiment, aspect_sentiment_mapping
