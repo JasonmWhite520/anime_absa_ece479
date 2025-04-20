@@ -1,3 +1,4 @@
+from sympy.codegen.ast import continue_
 from torch.utils.checkpoint import checkpoint
 
 from InstructABSA.InstructABSA.utils import T5Generator, T5Classifier
@@ -27,7 +28,7 @@ def aspect_term_extraction(raw_review):
     else:
         indomain = 'bos_instruct2'
         outdomain = 'bos_instruct1'
-
+    #list_noaspectterm = []
     t5_exp = T5Generator(model_checkpoint)
     bos_instruction_id = instruct_handler.ate[indomain]
     if ood_tr_data_path is not None or ood_te_data_path is not None:
@@ -43,8 +44,13 @@ def aspect_term_extraction(raw_review):
     input_ids = t5_exp.tokenizer(model_input, return_tensors="pt").input_ids
     outputs = t5_exp.model.generate(input_ids, max_length = config.max_token_length)
     aspect_term_decoded = t5_exp.tokenizer.decode(outputs[0], skip_special_tokens=True)
+    #print(aspect_term_decoded)
     aspect_list = [word.strip() for word in aspect_term_decoded.split(',')]
-    print('Model output: ', aspect_term_decoded)
+    if "noaspectterm" in aspect_term_decoded:
+        print("noaspectterm found")
+        return []
+
+    print('Extraction Model output: ', aspect_term_decoded)
     return aspect_list
 
 def aspect_term_sentiment_classification(raw_review, aspect_term):
@@ -80,18 +86,24 @@ def aspect_term_sentiment_classification(raw_review, aspect_term):
     outputs = t5_exp.model.generate(input_ids, max_length=config.max_token_length)
     aspect_term_sentiment_decoded = t5_exp.tokenizer.decode(outputs[0], skip_special_tokens=True)
     #aspect_list = [word.strip() for word in aspect_term_decoded.split(',')]
-    print('Model output: ', aspect_term_sentiment_decoded)
+    print('Sentiment Model output: ', aspect_term_sentiment_decoded)
     return aspect_term_sentiment_decoded
 
 def get_overall_review_sentiment(raw_review):
     aspect_list = aspect_term_extraction(raw_review)
+    if len(aspect_list) == 0:
+        return None
     aspect_sentiments = []
     for aspect in aspect_list:
         aspect_term_sentiment = aspect_term_sentiment_classification(raw_review, aspect)
         aspect_sentiments.append(aspect_term_sentiment)
     total_sentiment = 0
-    for sentiment in aspect_sentiments: #TODO: Handle no aspect term.
+    clean_aspect_sentiments = [aspect for aspect in aspect_sentiments if aspect != 'none']
+    for sentiment in clean_aspect_sentiments:
         if sentiment == "positive":
             total_sentiment += 1
-    avg_sentiment = total_sentiment / len(aspect_sentiments)
+        elif sentiment == "conflict" or sentiment == "neutral":
+            total_sentiment += 0.5
+
+    avg_sentiment = total_sentiment / len(clean_aspect_sentiments)
     return avg_sentiment
