@@ -4,3 +4,4 @@ datasets
 evaluate
 sentencepiece
 scikit-learn
+numpy==1.26.4
