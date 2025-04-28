@@ -1,2 +1,5 @@
-pretrained_models/GoogleNews-vectors-negative300.bin.gz
+pretrained_models/*
 .idea/*
+*.bin.gz
+/pretrained_models
+*.gz
