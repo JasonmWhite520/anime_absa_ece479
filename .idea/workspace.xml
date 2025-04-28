@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore " afterDir="false" />
+    <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="commit without pretrained model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime_absa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pretrained_models/GoogleNews-vectors-negative300.bin.gz" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,7 @@
       <workItem from="1745797284752" duration="335000" />
       <workItem from="1745797808168" duration="658000" />
       <workItem from="1745798630853" duration="744000" />
-      <workItem from="1745800392605" duration="667000" />
+      <workItem from="1745800392605" duration="1475000" />
     </task>
     <servers />
   </component>
@@ -178,6 +175,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit without pretrained model" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit without pretrained model" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
