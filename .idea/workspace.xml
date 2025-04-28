@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore " afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/anime_absa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretrained_models/GoogleNews-vectors-negative300.bin.gz" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +159,9 @@
       <workItem from="1745791430633" duration="645000" />
       <workItem from="1745792380104" duration="1288000" />
       <workItem from="1745797284752" duration="335000" />
+      <workItem from="1745797808168" duration="658000" />
+      <workItem from="1745798630853" duration="744000" />
+      <workItem from="1745800392605" duration="667000" />
     </task>
     <servers />
   </component>
