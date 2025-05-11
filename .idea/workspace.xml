@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="commit without pretrained model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime_absa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime_absa.py" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aspectterm_reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/aspectterm_reviews.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favorite_aspects.json" beforeDir="false" afterPath="$PROJECT_DIR$/favorite_aspects.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json_reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/json_reviews.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/most_common_aspects.json" beforeDir="false" afterPath="$PROJECT_DIR$/most_common_aspects.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noaspectterm_reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/noaspectterm_reviews.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_to_vec_experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/word_to_vec_experiments.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +164,7 @@
       <workItem from="1746746849201" duration="6136000" />
       <workItem from="1746814016339" duration="28760000" />
       <workItem from="1746940071813" duration="8596000" />
-      <workItem from="1746987186704" duration="1785000" />
+      <workItem from="1746987186704" duration="3820000" />
     </task>
     <servers />
   </component>
