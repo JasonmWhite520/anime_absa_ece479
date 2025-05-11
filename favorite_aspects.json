@@ -1,19 +1,205 @@
 {
-    "soundtracks": {
+    "sound": {
+        "total_sentiment": 20,
+        "occurrences": 20,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "music": {
+        "total_sentiment": 16,
+        "occurrences": 16,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "moves": {
+        "total_sentiment": 12,
+        "occurrences": 12,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "OP": {
+        "total_sentiment": 8,
+        "occurrences": 8,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "graphics": {
+        "total_sentiment": 8,
+        "occurrences": 8,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "backgrounds": {
         "total_sentiment": 8,
         "occurrences": 8,
         "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Audio"
     },
-    "villains": {
-        "total_sentiment": 6,
-        "occurrences": 6,
+    "swag": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "content": {
+        "total_sentiment": 4,
+        "occurrences": 4,
         "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Narrative"
     },
-    "OST": {
-        "total_sentiment": 5,
-        "occurrences": 5,
+    "bosses": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "humor": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "Sound": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "opening": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "character voices": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "background music": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "strawberry sundaes": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "game Dante": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "backrgound music": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "VA": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "stouts": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "production values": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "artwork": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "character designs": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "soundtrack": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "ending theme": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "voice work": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "Devil May Cry": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "anime": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "Art": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "character": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Character"
+    },
+    "background": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "guns": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "looking": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "opening theme": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "demon designs": {
+        "total_sentiment": 4,
+        "occurrences": 4,
         "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Miscellaneous"
     },
@@ -23,790 +209,316 @@
         "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Narrative"
     },
-    "choreography": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "Shikamaru": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Naruto Shippuden": {
-        "total_sentiment": 3,
-        "occurrences": 3,
+    "Sephiroth": {
+        "total_sentiment": 4,
+        "occurrences": 4,
         "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Miscellaneous"
     },
     "Animation": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "scenes": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "fighting styles": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "plot twists": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "personality": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "outfits": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Character Development": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "group": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "development": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "fighting scenes": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "pace": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "ninja": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "battle music": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "ramen": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "Sasuke's well ... replacement": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "comedy": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "Akatsuki": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "opening": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "fight sequences": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "setting": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "hokage": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "artwork": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "presentation": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "artstyle": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "storytelling": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "Jutsu": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Character design": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "character depth": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "personalities": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "song": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "jutsu": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "ships": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "soundtrack": {
-        "total_sentiment": 28.5,
-        "occurrences": 29,
-        "average_sentiment": 0.9827586206896551,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "music": {
-        "total_sentiment": 41,
-        "occurrences": 42,
-        "average_sentiment": 0.9761904761904762,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "action": {
-        "total_sentiment": 11.0,
-        "occurrences": 12,
-        "average_sentiment": 0.9166666666666666,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "story line": {
-        "total_sentiment": 5.5,
-        "occurrences": 6,
-        "average_sentiment": 0.9166666666666666,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "Shippuuden": {
-        "total_sentiment": 3.5,
+        "total_sentiment": 4,
         "occurrences": 4,
-        "average_sentiment": 0.875,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "fight scenes": {
-        "total_sentiment": 12,
-        "occurrences": 14,
-        "average_sentiment": 0.8571428571428571,
+        "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Visual"
     },
-    "art style": {
-        "total_sentiment": 6.0,
-        "occurrences": 7,
-        "average_sentiment": 0.8571428571428571,
+    "shading": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Visual"
     },
-    "characters": {
-        "total_sentiment": 72.5,
-        "occurrences": 85,
-        "average_sentiment": 0.8529411764705882,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "character development": {
-        "total_sentiment": 17,
-        "occurrences": 20,
-        "average_sentiment": 0.85,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "fights": {
-        "total_sentiment": 15.0,
-        "occurrences": 18,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "battles": {
-        "total_sentiment": 10.0,
-        "occurrences": 12,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "storyline": {
-        "total_sentiment": 10,
-        "occurrences": 12,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "Characters": {
-        "total_sentiment": 5.0,
-        "occurrences": 6,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "world": {
-        "total_sentiment": 5,
-        "occurrences": 6,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "season": {
-        "total_sentiment": 5,
-        "occurrences": 6,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "style": {
-        "total_sentiment": 2.5,
-        "occurrences": 3,
-        "average_sentiment": 0.8333333333333334,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "naruto": {
-        "total_sentiment": 2.5,
-        "occurrences": 3,
-        "average_sentiment": 0.8333333333333334,
+    "DMC4": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0,
         "most_similar_canonical_aspect": "Miscellaneous"
     },
     "story": {
-        "total_sentiment": 61.0,
-        "occurrences": 75,
-        "average_sentiment": 0.8133333333333334,
+        "total_sentiment": 22.0,
+        "occurrences": 24,
+        "average_sentiment": 0.9166666666666666,
         "most_similar_canonical_aspect": "Narrative"
     },
-    "enjoyment": {
-        "total_sentiment": 4,
-        "occurrences": 5,
-        "average_sentiment": 0.8,
+    "characters": {
+        "total_sentiment": 32.0,
+        "occurrences": 36,
+        "average_sentiment": 0.8888888888888888,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "games": {
+        "total_sentiment": 24.0,
+        "occurrences": 28,
+        "average_sentiment": 0.8571428571428571,
         "most_similar_canonical_aspect": "Audio"
-    },
-    "show": {
-        "total_sentiment": 4,
-        "occurrences": 5,
-        "average_sentiment": 0.8,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "sound": {
-        "total_sentiment": 17.5,
-        "occurrences": 22,
-        "average_sentiment": 0.7954545454545454,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "plot": {
-        "total_sentiment": 24.5,
-        "occurrences": 32,
-        "average_sentiment": 0.765625,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "Character": {
-        "total_sentiment": 6,
-        "occurrences": 8,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "main plot": {
-        "total_sentiment": 4.5,
-        "occurrences": 6,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "endings": {
-        "total_sentiment": 4.5,
-        "occurrences": 6,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "battle scenes": {
-        "total_sentiment": 3,
-        "occurrences": 4,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "atmosphere": {
-        "total_sentiment": 3,
-        "occurrences": 4,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "content": {
-        "total_sentiment": 1.5,
-        "occurrences": 2,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "Akatsuki members": {
-        "total_sentiment": 1.5,
-        "occurrences": 2,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "fight": {
-        "total_sentiment": 1.5,
-        "occurrences": 2,
-        "average_sentiment": 0.75,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "character": {
-        "total_sentiment": 11.0,
-        "occurrences": 15,
-        "average_sentiment": 0.7333333333333333,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "cast": {
-        "total_sentiment": 7.0,
-        "occurrences": 10,
-        "average_sentiment": 0.7,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "Naruto": {
-        "total_sentiment": 18.0,
-        "occurrences": 26,
-        "average_sentiment": 0.6923076923076923,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "art": {
-        "total_sentiment": 30.5,
-        "occurrences": 45,
-        "average_sentiment": 0.6777777777777778,
-        "most_similar_canonical_aspect": "Visual"
     },
     "animation": {
-        "total_sentiment": 30.0,
-        "occurrences": 45,
-        "average_sentiment": 0.6666666666666666,
+        "total_sentiment": 20,
+        "occurrences": 24,
+        "average_sentiment": 0.8333333333333334,
         "most_similar_canonical_aspect": "Visual"
     },
-    "openings": {
+    "Lady": {
         "total_sentiment": 8.0,
         "occurrences": 12,
         "average_sentiment": 0.6666666666666666,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "dialogues": {
-        "total_sentiment": 4,
-        "occurrences": 6,
-        "average_sentiment": 0.6666666666666666,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "main story": {
-        "total_sentiment": 2.0,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666,
         "most_similar_canonical_aspect": "Miscellaneous"
     },
-    "voice acting": {
-        "total_sentiment": 2,
-        "occurrences": 3,
+    "pizza": {
+        "total_sentiment": 8.0,
+        "occurrences": 12,
         "average_sentiment": 0.6666666666666666,
         "most_similar_canonical_aspect": "Audio"
     },
-    "Gaara": {
-        "total_sentiment": 2.0,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666,
-        "most_similar_canonical_aspect": "Miscellaneous"
+    "art": {
+        "total_sentiment": 20,
+        "occurrences": 32,
+        "average_sentiment": 0.625,
+        "most_similar_canonical_aspect": "Visual"
     },
-    "Character development": {
-        "total_sentiment": 2.0,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "backstories": {
-        "total_sentiment": 2,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666,
+    "ending": {
+        "total_sentiment": 12,
+        "occurrences": 20,
+        "average_sentiment": 0.6,
         "most_similar_canonical_aspect": "Narrative"
     },
-    "Sasuke": {
-        "total_sentiment": 15.0,
-        "occurrences": 23,
-        "average_sentiment": 0.6521739130434783,
+    "food": {
+        "total_sentiment": 4.0,
+        "occurrences": 8,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "style": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "Dante": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "fight scenes": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "fight sequences": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "setting": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "cast": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Character"
+    },
+    "art style": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "devil arms": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "plot": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "Trish": {
+        "total_sentiment": 4,
+        "occurrences": 12,
+        "average_sentiment": 0.3333333333333333,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "action": {
+        "total_sentiment": 4,
+        "occurrences": 12,
+        "average_sentiment": 0.3333333333333333,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "beer": {
+        "total_sentiment": 2.0,
+        "occurrences": 8,
+        "average_sentiment": 0.25,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "battles": {
+        "total_sentiment": 2.0,
+        "occurrences": 12,
+        "average_sentiment": 0.16666666666666666,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "materials": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "underlying plot": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "Ocs": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "Morrison": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "weapons": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "foils": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "anime adaptation": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "animation quality": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Visual"
+    },
+    "quality": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "feel": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "storyline": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "people": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Miscellaneous"
     },
     "main character": {
-        "total_sentiment": 6.5,
-        "occurrences": 10,
-        "average_sentiment": 0.65,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "Kakashi": {
-        "total_sentiment": 2.5,
-        "occurrences": 4,
-        "average_sentiment": 0.625,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "main characters": {
-        "total_sentiment": 3.5,
-        "occurrences": 6,
-        "average_sentiment": 0.5833333333333334,
-        "most_similar_canonical_aspect": "Character"
-    },
-    "Sakura": {
-        "total_sentiment": 4.5,
-        "occurrences": 8,
-        "average_sentiment": 0.5625,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "animation quality": {
-        "total_sentiment": 2.5,
-        "occurrences": 5,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "Obito": {
-        "total_sentiment": 2.5,
-        "occurrences": 5,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Madara": {
-        "total_sentiment": 2,
-        "occurrences": 4,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "episode bgm": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Sai": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "background music": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "Soundtrack": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "plot development": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Pain": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "filler arcs": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "closings": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "supporting characters": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "One Piece": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "Shippuden": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "kakashi": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "food": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "jutsu of resuscitation": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "ending": {
-        "total_sentiment": 2,
-        "occurrences": 6,
-        "average_sentiment": 0.3333333333333333,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "side characters": {
-        "total_sentiment": 2.0,
-        "occurrences": 6,
-        "average_sentiment": 0.3333333333333333,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "anime": {
-        "total_sentiment": 1.0,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "episodes": {
-        "total_sentiment": 1,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "backstory": {
-        "total_sentiment": 1,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "plotholes": {
-        "total_sentiment": 1,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "fillers": {
-        "total_sentiment": 7.5,
-        "occurrences": 27,
-        "average_sentiment": 0.2777777777777778,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "graphics": {
-        "total_sentiment": 1,
-        "occurrences": 4,
-        "average_sentiment": 0.25,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "villain": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "manga": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "Art": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "Great War arc": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "shinobi": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "flashbacks": {
-        "total_sentiment": 2,
-        "occurrences": 9,
-        "average_sentiment": 0.2222222222222222,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "Kaguya": {
-        "total_sentiment": 0.5,
-        "occurrences": 3,
-        "average_sentiment": 0.16666666666666666,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "filler episodes": {
-        "total_sentiment": 1,
-        "occurrences": 8,
-        "average_sentiment": 0.125,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "pacing": {
-        "total_sentiment": 2.0,
-        "occurrences": 17,
-        "average_sentiment": 0.11764705882352941,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "quality": {
-        "total_sentiment": 2.0,
-        "occurrences": 17,
-        "average_sentiment": 0.11764705882352941,
-        "most_similar_canonical_aspect": "Audio"
-    },
-    "filler": {
-        "total_sentiment": 0.5,
-        "occurrences": 12,
-        "average_sentiment": 0.041666666666666664,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "color": {
         "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "main cast": {
-        "total_sentiment": 0,
-        "occurrences": 2,
+        "occurrences": 4,
         "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Character"
     },
-    "fighting": {
+    "pizza-eating badass": {
         "total_sentiment": 0,
-        "occurrences": 2,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "guy": {
+        "total_sentiment": 0,
+        "occurrences": 4,
         "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Narrative"
     },
-    "art quality": {
+    "direction": {
         "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "flashback": {
-        "total_sentiment": 0,
-        "occurrences": 2,
+        "occurrences": 4,
         "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Narrative"
     },
-    "price": {
+    "shit": {
         "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Visual"
-    },
-    "fan service": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "plot episodes": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "production": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Narrative"
-    },
-    "final battle": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0,
-        "most_similar_canonical_aspect": "Miscellaneous"
-    },
-    "visuals": {
-        "total_sentiment": 0,
-        "occurrences": 2,
+        "occurrences": 4,
         "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Audio"
     },
-    "shino": {
+    "villains": {
         "total_sentiment": 0,
-        "occurrences": 2,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "action sequences": {
+        "total_sentiment": 0,
+        "occurrences": 4,
         "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Miscellaneous"
     },
-    "places": {
+    "demons": {
         "total_sentiment": 0,
-        "occurrences": 2,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "series": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Narrative"
+    },
+    "Japanese cast": {
+        "total_sentiment": 0,
+        "occurrences": 4,
         "average_sentiment": 0.0,
         "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "caviar": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Audio"
+    },
+    "feces": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "story flow": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Miscellaneous"
+    },
+    "Patty": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0,
+        "most_similar_canonical_aspect": "Narrative"
     }
 }

@@ -1,0 +1,113 @@
+{
+  "Naruto: Shippuden": {
+    "Narrative": {
+      "average_sentiment": 0.7310704960835509,
+      "occurrences": 383
+    },
+    "Visual": {
+      "average_sentiment": 0.6862745098039216,
+      "occurrences": 153
+    },
+    "Audio": {
+      "average_sentiment": 0.8169934640522876,
+      "occurrences": 153
+    },
+    "Miscellaneous": {
+      "average_sentiment": 0.576,
+      "occurrences": 250
+    },
+    "Character": {
+      "average_sentiment": 0.6851851851851852,
+      "occurrences": 54
+    }
+  },
+  "Tokyo Ghoul": {
+    "Narrative": {
+      "average_sentiment": 0.624390243902439,
+      "occurrences": 410
+    },
+    "Visual": {
+      "average_sentiment": 0.771255060728745,
+      "occurrences": 247
+    },
+    "Audio": {
+      "average_sentiment": 0.8161434977578476,
+      "occurrences": 223
+    },
+    "Miscellaneous": {
+      "average_sentiment": 0.6331521739130435,
+      "occurrences": 184
+    },
+    "Character": {
+      "average_sentiment": 0.5540540540540541,
+      "occurrences": 74
+    }
+  },
+  "Yuru Camp": {
+    "Narrative": {
+      "average_sentiment": 0.9041916167664671,
+      "occurrences": 334
+    },
+    "Visual": {
+      "average_sentiment": 0.9578059071729957,
+      "occurrences": 237
+    },
+    "Audio": {
+      "average_sentiment": 0.9431438127090301,
+      "occurrences": 299
+    },
+    "Miscellaneous": {
+      "average_sentiment": 0.8819444444444444,
+      "occurrences": 432
+    },
+    "Character": {
+      "average_sentiment": 0.9512195121951219,
+      "occurrences": 41
+    }
+  },
+  "Kaguya-sama: Love is War": {
+    "Narrative": {
+      "average_sentiment": 0.8043478260869565,
+      "occurrences": 345
+    },
+    "Visual": {
+      "average_sentiment": 0.8615819209039548,
+      "occurrences": 177
+    },
+    "Audio": {
+      "average_sentiment": 0.8995535714285714,
+      "occurrences": 224
+    },
+    "Miscellaneous": {
+      "average_sentiment": 0.7943037974683544,
+      "occurrences": 158
+    },
+    "Character": {
+      "average_sentiment": 0.8939393939393939,
+      "occurrences": 66
+    }
+  },
+  "Mushoku Tensei": {
+    "Narrative": {
+      "average_sentiment": 0.7911227154046997,
+      "occurrences": 383
+    },
+    "Visual": {
+      "average_sentiment": 0.8978723404255319,
+      "occurrences": 235
+    },
+    "Audio": {
+      "average_sentiment": 0.8863636363636364,
+      "occurrences": 132
+    },
+    "Miscellaneous": {
+      "average_sentiment": 0.78125,
+      "occurrences": 208
+    },
+    "Character": {
+      "average_sentiment": 0.6022727272727273,
+      "occurrences": 88
+    }
+  }
+
+}

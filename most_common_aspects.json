@@ -1,2207 +1,437 @@
 {
     "characters": {
-        "total_sentiment": 72.5,
-        "occurrences": 85,
-        "average_sentiment": 0.8529411764705882
-    },
-    "story": {
-        "total_sentiment": 61.0,
-        "occurrences": 75,
-        "average_sentiment": 0.8133333333333334
-    },
-    "animation": {
-        "total_sentiment": 30.0,
-        "occurrences": 45,
-        "average_sentiment": 0.6666666666666666
+        "total_sentiment": 32.0,
+        "occurrences": 36,
+        "average_sentiment": 0.8888888888888888
     },
     "art": {
-        "total_sentiment": 30.5,
-        "occurrences": 45,
-        "average_sentiment": 0.6777777777777778
-    },
-    "music": {
-        "total_sentiment": 41,
-        "occurrences": 42,
-        "average_sentiment": 0.9761904761904762
-    },
-    "plot": {
-        "total_sentiment": 24.5,
+        "total_sentiment": 20,
         "occurrences": 32,
-        "average_sentiment": 0.765625
+        "average_sentiment": 0.625
     },
-    "soundtrack": {
-        "total_sentiment": 28.5,
-        "occurrences": 29,
-        "average_sentiment": 0.9827586206896551
-    },
-    "fillers": {
-        "total_sentiment": 7.5,
-        "occurrences": 27,
-        "average_sentiment": 0.2777777777777778
-    },
-    "Naruto": {
-        "total_sentiment": 18.0,
-        "occurrences": 26,
-        "average_sentiment": 0.6923076923076923
-    },
-    "Sasuke": {
-        "total_sentiment": 15.0,
-        "occurrences": 23,
-        "average_sentiment": 0.6521739130434783
-    },
-    "sound": {
-        "total_sentiment": 17.5,
-        "occurrences": 22,
-        "average_sentiment": 0.7954545454545454
-    },
-    "character development": {
-        "total_sentiment": 17,
-        "occurrences": 20,
-        "average_sentiment": 0.85
-    },
-    "fights": {
-        "total_sentiment": 15.0,
-        "occurrences": 18,
-        "average_sentiment": 0.8333333333333334
-    },
-    "pacing": {
-        "total_sentiment": 2.0,
-        "occurrences": 17,
-        "average_sentiment": 0.11764705882352941
-    },
-    "quality": {
-        "total_sentiment": 2.0,
-        "occurrences": 17,
-        "average_sentiment": 0.11764705882352941
-    },
-    "character": {
-        "total_sentiment": 11.0,
-        "occurrences": 15,
-        "average_sentiment": 0.7333333333333333
-    },
-    "fight scenes": {
-        "total_sentiment": 12,
-        "occurrences": 14,
+    "games": {
+        "total_sentiment": 24.0,
+        "occurrences": 28,
         "average_sentiment": 0.8571428571428571
     },
+    "animation": {
+        "total_sentiment": 20,
+        "occurrences": 24,
+        "average_sentiment": 0.8333333333333334
+    },
+    "story": {
+        "total_sentiment": 22.0,
+        "occurrences": 24,
+        "average_sentiment": 0.9166666666666666
+    },
+    "ending": {
+        "total_sentiment": 12,
+        "occurrences": 20,
+        "average_sentiment": 0.6
+    },
+    "sound": {
+        "total_sentiment": 20,
+        "occurrences": 20,
+        "average_sentiment": 1.0
+    },
+    "music": {
+        "total_sentiment": 16,
+        "occurrences": 16,
+        "average_sentiment": 1.0
+    },
+    "Trish": {
+        "total_sentiment": 4,
+        "occurrences": 12,
+        "average_sentiment": 0.3333333333333333
+    },
+    "Lady": {
+        "total_sentiment": 8.0,
+        "occurrences": 12,
+        "average_sentiment": 0.6666666666666666
+    },
     "battles": {
-        "total_sentiment": 10.0,
+        "total_sentiment": 2.0,
         "occurrences": 12,
-        "average_sentiment": 0.8333333333333334
+        "average_sentiment": 0.16666666666666666
     },
-    "storyline": {
-        "total_sentiment": 10,
-        "occurrences": 12,
-        "average_sentiment": 0.8333333333333334
-    },
-    "filler": {
-        "total_sentiment": 0.5,
-        "occurrences": 12,
-        "average_sentiment": 0.041666666666666664
-    },
-    "openings": {
+    "pizza": {
         "total_sentiment": 8.0,
         "occurrences": 12,
         "average_sentiment": 0.6666666666666666
     },
     "action": {
-        "total_sentiment": 11.0,
+        "total_sentiment": 4,
         "occurrences": 12,
-        "average_sentiment": 0.9166666666666666
+        "average_sentiment": 0.3333333333333333
     },
-    "cast": {
-        "total_sentiment": 7.0,
-        "occurrences": 10,
-        "average_sentiment": 0.7
+    "moves": {
+        "total_sentiment": 12,
+        "occurrences": 12,
+        "average_sentiment": 1.0
     },
-    "main character": {
-        "total_sentiment": 6.5,
-        "occurrences": 10,
-        "average_sentiment": 0.65
-    },
-    "flashbacks": {
-        "total_sentiment": 2,
-        "occurrences": 9,
-        "average_sentiment": 0.2222222222222222
-    },
-    "filler episodes": {
-        "total_sentiment": 1,
+    "food": {
+        "total_sentiment": 4.0,
         "occurrences": 8,
-        "average_sentiment": 0.125
+        "average_sentiment": 0.5
     },
-    "Character": {
-        "total_sentiment": 6,
+    "style": {
+        "total_sentiment": 4,
         "occurrences": 8,
-        "average_sentiment": 0.75
+        "average_sentiment": 0.5
     },
-    "soundtracks": {
+    "Dante": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5
+    },
+    "fight scenes": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5
+    },
+    "fight sequences": {
+        "total_sentiment": 4,
+        "occurrences": 8,
+        "average_sentiment": 0.5
+    },
+    "OP": {
         "total_sentiment": 8,
         "occurrences": 8,
         "average_sentiment": 1.0
     },
-    "Sakura": {
-        "total_sentiment": 4.5,
+    "beer": {
+        "total_sentiment": 2.0,
         "occurrences": 8,
-        "average_sentiment": 0.5625
+        "average_sentiment": 0.25
+    },
+    "graphics": {
+        "total_sentiment": 8,
+        "occurrences": 8,
+        "average_sentiment": 1.0
+    },
+    "backgrounds": {
+        "total_sentiment": 8,
+        "occurrences": 8,
+        "average_sentiment": 1.0
+    },
+    "materials": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0
+    },
+    "underlying plot": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0
+    },
+    "Ocs": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0
+    },
+    "Morrison": {
+        "total_sentiment": 0,
+        "occurrences": 8,
+        "average_sentiment": 0.0
+    },
+    "setting": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5
+    },
+    "swag": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "weapons": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "cast": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
+        "average_sentiment": 0.5
+    },
+    "foils": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "content": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "anime adaptation": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
     },
     "art style": {
-        "total_sentiment": 6.0,
-        "occurrences": 7,
-        "average_sentiment": 0.8571428571428571
-    },
-    "Characters": {
-        "total_sentiment": 5.0,
-        "occurrences": 6,
-        "average_sentiment": 0.8333333333333334
-    },
-    "story line": {
-        "total_sentiment": 5.5,
-        "occurrences": 6,
-        "average_sentiment": 0.9166666666666666
-    },
-    "world": {
-        "total_sentiment": 5,
-        "occurrences": 6,
-        "average_sentiment": 0.8333333333333334
-    },
-    "ending": {
-        "total_sentiment": 2,
-        "occurrences": 6,
-        "average_sentiment": 0.3333333333333333
-    },
-    "main plot": {
-        "total_sentiment": 4.5,
-        "occurrences": 6,
-        "average_sentiment": 0.75
-    },
-    "season": {
-        "total_sentiment": 5,
-        "occurrences": 6,
-        "average_sentiment": 0.8333333333333334
-    },
-    "endings": {
-        "total_sentiment": 4.5,
-        "occurrences": 6,
-        "average_sentiment": 0.75
-    },
-    "main characters": {
-        "total_sentiment": 3.5,
-        "occurrences": 6,
-        "average_sentiment": 0.5833333333333334
-    },
-    "side characters": {
         "total_sentiment": 2.0,
-        "occurrences": 6,
-        "average_sentiment": 0.3333333333333333
-    },
-    "dialogues": {
-        "total_sentiment": 4,
-        "occurrences": 6,
-        "average_sentiment": 0.6666666666666666
-    },
-    "villains": {
-        "total_sentiment": 6,
-        "occurrences": 6,
-        "average_sentiment": 1.0
+        "occurrences": 4,
+        "average_sentiment": 0.5
     },
     "animation quality": {
-        "total_sentiment": 2.5,
-        "occurrences": 5,
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "devil arms": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
         "average_sentiment": 0.5
     },
-    "enjoyment": {
+    "bosses": {
         "total_sentiment": 4,
-        "occurrences": 5,
-        "average_sentiment": 0.8
-    },
-    "OST": {
-        "total_sentiment": 5,
-        "occurrences": 5,
+        "occurrences": 4,
         "average_sentiment": 1.0
     },
-    "Obito": {
-        "total_sentiment": 2.5,
-        "occurrences": 5,
+    "humor": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "quality": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "feel": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "storyline": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "people": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "main character": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "pizza-eating badass": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "guy": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "Sound": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "opening": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "character voices": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "background music": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "strawberry sundaes": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "game Dante": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "backrgound music": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "VA": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "plot": {
+        "total_sentiment": 2.0,
+        "occurrences": 4,
         "average_sentiment": 0.5
     },
-    "show": {
+    "stouts": {
         "total_sentiment": 4,
-        "occurrences": 5,
-        "average_sentiment": 0.8
-    },
-    "Kakashi": {
-        "total_sentiment": 2.5,
         "occurrences": 4,
-        "average_sentiment": 0.625
+        "average_sentiment": 1.0
     },
-    "Shippuuden": {
-        "total_sentiment": 3.5,
+    "direction": {
+        "total_sentiment": 0,
         "occurrences": 4,
-        "average_sentiment": 0.875
+        "average_sentiment": 0.0
     },
-    "battle scenes": {
-        "total_sentiment": 3,
+    "shit": {
+        "total_sentiment": 0,
         "occurrences": 4,
-        "average_sentiment": 0.75
+        "average_sentiment": 0.0
+    },
+    "villains": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "action sequences": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "demons": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "production values": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "series": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "artwork": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "character designs": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "soundtrack": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "ending theme": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "voice work": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "Japanese cast": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "Devil May Cry": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "anime": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "Art": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "character": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "caviar": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "feces": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "background": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "story flow": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "guns": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "looking": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "opening theme": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
+    },
+    "Patty": {
+        "total_sentiment": 0,
+        "occurrences": 4,
+        "average_sentiment": 0.0
+    },
+    "demon designs": {
+        "total_sentiment": 4,
+        "occurrences": 4,
+        "average_sentiment": 1.0
     },
     "voice actors": {
         "total_sentiment": 4,
         "occurrences": 4,
         "average_sentiment": 1.0
     },
-    "graphics": {
-        "total_sentiment": 1,
+    "Sephiroth": {
+        "total_sentiment": 4,
         "occurrences": 4,
-        "average_sentiment": 0.25
-    },
-    "atmosphere": {
-        "total_sentiment": 3,
-        "occurrences": 4,
-        "average_sentiment": 0.75
-    },
-    "Madara": {
-        "total_sentiment": 2,
-        "occurrences": 4,
-        "average_sentiment": 0.5
-    },
-    "choreography": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0
-    },
-    "style": {
-        "total_sentiment": 2.5,
-        "occurrences": 3,
-        "average_sentiment": 0.8333333333333334
-    },
-    "anime": {
-        "total_sentiment": 1.0,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333
-    },
-    "naruto": {
-        "total_sentiment": 2.5,
-        "occurrences": 3,
-        "average_sentiment": 0.8333333333333334
-    },
-    "episodes": {
-        "total_sentiment": 1,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333
-    },
-    "main story": {
-        "total_sentiment": 2.0,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666
-    },
-    "backstory": {
-        "total_sentiment": 1,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333
-    },
-    "voice acting": {
-        "total_sentiment": 2,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666
-    },
-    "Gaara": {
-        "total_sentiment": 2.0,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666
-    },
-    "Character development": {
-        "total_sentiment": 2.0,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666
-    },
-    "backstories": {
-        "total_sentiment": 2,
-        "occurrences": 3,
-        "average_sentiment": 0.6666666666666666
-    },
-    "Shikamaru": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0
-    },
-    "Kaguya": {
-        "total_sentiment": 0.5,
-        "occurrences": 3,
-        "average_sentiment": 0.16666666666666666
-    },
-    "Naruto Shippuden": {
-        "total_sentiment": 3,
-        "occurrences": 3,
         "average_sentiment": 1.0
     },
     "Animation": {
-        "total_sentiment": 3,
-        "occurrences": 3,
+        "total_sentiment": 4,
+        "occurrences": 4,
         "average_sentiment": 1.0
-    },
-    "scenes": {
-        "total_sentiment": 3,
-        "occurrences": 3,
-        "average_sentiment": 1.0
-    },
-    "plotholes": {
-        "total_sentiment": 1,
-        "occurrences": 3,
-        "average_sentiment": 0.3333333333333333
-    },
-    "fighting styles": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "villain": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25
-    },
-    "plot twists": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "personality": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "color": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "episode bgm": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "outfits": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Character Development": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "manga": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25
-    },
-    "Sai": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "group": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "content": {
-        "total_sentiment": 1.5,
-        "occurrences": 2,
-        "average_sentiment": 0.75
-    },
-    "main cast": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "development": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Art": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25
-    },
-    "fighting": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "background music": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "Soundtrack": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "fighting scenes": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Great War arc": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25
-    },
-    "plot development": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "pace": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "ninja": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "battle music": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "ramen": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Sasuke's well ... replacement": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Pain": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "comedy": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Akatsuki": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "shinobi": {
-        "total_sentiment": 0.5,
-        "occurrences": 2,
-        "average_sentiment": 0.25
-    },
-    "art quality": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "filler arcs": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "opening": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "closings": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "fight sequences": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "supporting characters": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "setting": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "hokage": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "artwork": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "presentation": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "flashback": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "price": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "One Piece": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "fan service": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "Shippuden": {
-        "total_sentiment": 1,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "plot episodes": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "production": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "artstyle": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "storytelling": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Jutsu": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Character design": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "character depth": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "Akatsuki members": {
-        "total_sentiment": 1.5,
-        "occurrences": 2,
-        "average_sentiment": 0.75
-    },
-    "final battle": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "fight": {
-        "total_sentiment": 1.5,
-        "occurrences": 2,
-        "average_sentiment": 0.75
-    },
-    "personalities": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "visuals": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "song": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "jutsu": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "shino": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "kakashi": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "food": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "ships": {
-        "total_sentiment": 2,
-        "occurrences": 2,
-        "average_sentiment": 1.0
-    },
-    "places": {
-        "total_sentiment": 0,
-        "occurrences": 2,
-        "average_sentiment": 0.0
-    },
-    "jutsu of resuscitation": {
-        "total_sentiment": 1.0,
-        "occurrences": 2,
-        "average_sentiment": 0.5
-    },
-    "jutsu battles": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "war arc": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "story decisions": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "growing up": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "design": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "color pallet": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Shippuden series": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "world building": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Sharingan attack": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "detail": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
     },
     "shading": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "writer": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "vibe": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "mood": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "jutsu techniques": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "creatures": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "heroes": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "beasts": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "masks": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "scene": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "OSTs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "set": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "story arcs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Akatsuki clan": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "steaks": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "arcs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "growth": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Akatsiki tailed beast arc": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Fourth Great Shinobi World War arc": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Nakamas": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "background OST": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "OP/ED songs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "fight sequence": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "demon Fox": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "directing team": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "directing": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "ninja based anime": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "voices": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "theme": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "voice": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "humor": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "life journey": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "battle animations": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "core story": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "side protagonists": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "plotline": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "plotlines": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "shippuuden": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Shinobi world": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "emotional/moral lessons": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "season 2": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "life": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "canon episodes": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Pain arc": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "power creep": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "powerups": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Ki": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "DBZ": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "effects": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "opening theme": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "episode direction": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "background images": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "background sounds": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Voice acting": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Character Characters": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "playback speed": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "character cast": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "canon portion": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "features": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto Shippuuden": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "eye technique": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Bleach": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "Fairy Tail": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "backround music": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Shinobi War Arc": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "canon material": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "animators": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "filler characters": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "shows": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "series": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto Blood Prison movie": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "friendship": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "girl": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "MAGICAL NINJAS FIGHTING": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "plot hole": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "cast of characters": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "training": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "art design": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "flashbacks from each character": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Drama genre": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "fillers character": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "drama": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "psychology": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "members": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "character arcs": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Naruto: Shippuuden": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "scene design": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Battle/danger music": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Hokage": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "frame-rate": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "characterization": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "feature": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "delivery": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "destiny": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "execution": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Sadness & Sorrow": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "enjoyment value": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Gengutsu": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Taijutsu": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Senjutsu": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Fuinjutsu": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "turn of Sasuke": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "shounen goodness": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "fight scene": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "art look": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "bar": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "staff": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "sasuke": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "sakura": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "traffic": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "animations": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "plans": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "orochimaru": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "art/animation": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "Ninjutsu": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "Portgas D. Ace": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "clans": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "villages": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "bijuus": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "skills": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "chakra explanation": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "battle system": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "games": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto universe": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "canon story": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "Kiba": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Itachi": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Nagato": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "intros": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "fan base": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "supporting staff": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "ninja way": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "narrative": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "richness": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "new characters": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Story": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "OPs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "background scores": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "ending songs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "jutsu (ninja abilities)": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Rasengan": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "main story outline": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Shippuuden Sound": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Endings": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "canon content": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "bus": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Naruto Shippuden soundtracks": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "reanimation jutsu": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "& what not": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "narrative department": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "utilisation": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Neji": {
-        "total_sentiment": 1,
-        "occurrences": 1,
+        "total_sentiment": 4,
+        "occurrences": 4,
         "average_sentiment": 1.0
     },
-    "Deidara": {
-        "total_sentiment": 1,
-        "occurrences": 1,
+    "DMC4": {
+        "total_sentiment": 4,
+        "occurrences": 4,
         "average_sentiment": 1.0
-    },
-    "Temari": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Ino": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "power system": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "power ceiling": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "War Arc": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "OP power levelling": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "culture": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "MUSIC": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "specials": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "base story": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "studio": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "chapter": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "flashback scenes": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "opening theme songs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "antagonists": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "sage mode": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "morale": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "technical section": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "drawing": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "main story material": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "flow": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "lead character": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "story development": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "crappie fillers": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "training sequences": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "abilities": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "merchandise": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "sales": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "production style": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Sharingan": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "battle": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Sasuke-Itachi": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "pictures": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "camera angles": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "lore": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "world of shinobi": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Silhouette": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "funny moments": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "arc": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Guy": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "many more": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Sound - 10": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "cl\u00e1sico": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "building up": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "filler bits": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "character details": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "character movements": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Gintama": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Kakashis": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Itachis pasts": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "filler arc": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "other characters": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "travelling with a boat": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "island": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "land of lightning": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "hair": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "roles": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Shounen": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "frame of animation": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "fairy tail": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "anime serie": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "animation frame": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "eps": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "shirobako": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "structure": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "events": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Japanese music": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "character design": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "sons": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "dessins": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "naruto series": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "general ost": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "character story lines": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "teachings": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "art work": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "Characters development": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "MC attitude": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "world-building": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "side stories": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "screen time": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "moments": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "rematch": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "allies": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "feels": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "ost": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "ninja atmposphere": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "length": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "stuff": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "main story line": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "main ones": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "naruto & sakura vs kakashi battle": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "set-pieces": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "music tracks": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "mechanaruto episodes": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "nine-tailed fox power": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "OP": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "background songs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto series": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "main waifu": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "speech": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "penis measuring contest": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "story-line": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "morals": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "skill set": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "back story": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "main spine": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "main chatacter": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "character's developments": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "songs": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto shippuuden's art": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "start": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "people": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "akatsuki": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "villain introduction": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "writing": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "mission": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "Shinobi World": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "lines": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "sensei Kakashi": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Jiraiya": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto's friends in Konoha": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "sounds": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "dialogue": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "STORY": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "ninja system": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Japanese instruments": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "guitar solo": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Naruto x Pain": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "premise": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "magic system": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "protagonist": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "Lee": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "friends": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "script": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "plot progression": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "academy": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
-    },
-    "fanservice": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "kakashi fillers": {
-        "total_sentiment": 0,
-        "occurrences": 1,
-        "average_sentiment": 0.0
-    },
-    "MC portion": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "MC": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Resurrection Skill": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "4th ninja world war": {
-        "total_sentiment": 1,
-        "occurrences": 1,
-        "average_sentiment": 1.0
-    },
-    "Battle sequences": {
-        "total_sentiment": 0.5,
-        "occurrences": 1,
-        "average_sentiment": 0.5
     }
 }

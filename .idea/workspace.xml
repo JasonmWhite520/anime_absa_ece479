@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="commit without pretrained model">
-      <change beforePath="$PROJECT_DIR$/.gitignore " beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore " afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anime_absa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anime_absa.py" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aspectterm_reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/aspectterm_reviews.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favorite_aspects.json" beforeDir="false" afterPath="$PROJECT_DIR$/favorite_aspects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json_reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/json_reviews.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/most_common_aspects.json" beforeDir="false" afterPath="$PROJECT_DIR$/most_common_aspects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noaspectterm_reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/noaspectterm_reviews.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_to_vec_experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/word_to_vec_experiments.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,6 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2u5NkNdAQrklUjRKwUd3KKSfXRt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +57,7 @@
     &quot;Python.main.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jasonwhite/Documents/UA/spring2025/ece_479/project/anime_absa/pretrained_models&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -129,8 +136,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
-        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -159,7 +166,12 @@
       <workItem from="1745797284752" duration="335000" />
       <workItem from="1745797808168" duration="658000" />
       <workItem from="1745798630853" duration="744000" />
-      <workItem from="1745800392605" duration="4394000" />
+      <workItem from="1745800392605" duration="5535000" />
+      <workItem from="1746646596583" duration="21998000" />
+      <workItem from="1746746849201" duration="6136000" />
+      <workItem from="1746814016339" duration="28760000" />
+      <workItem from="1746940071813" duration="8596000" />
+      <workItem from="1746987186704" duration="1785000" />
     </task>
     <servers />
   </component>
@@ -180,17 +192,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit without pretrained model" />
     <option name="LAST_COMMIT_MESSAGE" value="commit without pretrained model" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/anime_absa.ipynb</url>
-          <line>260</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/anime_absa$anime_absa.coverage" NAME="anime_absa Coverage Results" MODIFIED="1743349550658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
