@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="commit without pretrained model">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="commit without pretrained model" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +161,7 @@
       <workItem from="1746746849201" duration="6136000" />
       <workItem from="1746814016339" duration="28760000" />
       <workItem from="1746940071813" duration="8596000" />
-      <workItem from="1746987186704" duration="3820000" />
+      <workItem from="1746987186704" duration="4526000" />
     </task>
     <servers />
   </component>
