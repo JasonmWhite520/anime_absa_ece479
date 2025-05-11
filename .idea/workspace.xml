@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0e82171-5f3a-497e-aa23-a1c39b0b9e05" name="Changes" comment="commit without pretrained model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime_absa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/anime_absa.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +166,8 @@
       <workItem from="1746940071813" duration="8596000" />
       <workItem from="1746987186704" duration="4628000" />
       <workItem from="1746991919699" duration="34000" />
+      <workItem from="1746992370233" duration="174000" />
+      <workItem from="1746992573951" duration="77000" />
     </task>
     <servers />
   </component>
